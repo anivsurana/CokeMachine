@@ -1,2 +1,2 @@
 # CokeMachine
-Assignment simulating purchasing a Coke on a vending machine.
+Assignment simulating purchasing Cokes on a vending machine.
